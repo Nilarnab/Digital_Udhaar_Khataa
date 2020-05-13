@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">டிஜிட்டல் கடன் கணக்கு</string>
+    <string name="create_a_password">கடவுச்சொல்லை உருவாக்கவும்</string>
+    <string name="name">பெயர்</string>
+    <string name="phone_no">தொலைபேசி எண்.</string>
+    <string name="name_of_customer">வாடிக்கையாளரின் பெயர்</string>
+    <string name="phone_no_of_customer">தொலைபேசி எண். வாடிக்கையாளர்</string>
+    <string name="have_an_account_sign_in">கணக்கு உள்ளதா? உள்நுழைக</string>
+    <string name="create_account">உங்கள் கணக்கை துவங்குங்கள்</string>
+    <string name="enter_password">கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string name="sign_in">உள்நுழைக</string>
+    <string name="make_new_customer">புதிய வாடிக்கையாளரை உருவாக்குங்கள்</string>
+    <string name="don_t_have_a_number_take_help">எண் இல்லையா? உதவி பெறுங்கள்</string>
+    <string name="number">எண்</string>
+    <string name="you_owe">நீ பணம் செலுத்து</string>
+    <string name="you_are_owed">அவர் செலுத்துகிறார்</string>
+    <string name="payment">கட்டணம்</string>
+    <string name="credit">கடன்</string>
+    <string name="add">கூட்டு</string>
+    <string name="e_g_50">எ.கா: 50</string>
+    <string name="signed_in_as">பயனர்</string>
+    <string name="log_out">வெளியேறு</string>
+    <string name="add_customer">வாடிக்கையாளரைச் சேர்க்கவும்</string>
+    <string name="show_customers">வாடிக்கையாளர்களைக் காட்டு</string>
+    <string name="show_present_customers">தற்போதைய வாடிக்கையாளர்களைக் காட்டு</string>
+    <string name="your_customers_are_as_follows">உங்கள் வாடிக்கையாளர்கள் பின்வருமாறு</string>
+</resources>

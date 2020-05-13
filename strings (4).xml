@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಡಿಜಿಟಲ್ ಕ್ರೆಡಿಟ್ ಖಾತೆ</string>
+    <string name="create_a_password">ರಹಸ್ಯಪದ ಸೃಷ್ಟಿಸಿ</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="phone_no">ದೂರವಾಣಿ ಸಂಖ್ಯೆ.</string>
+    <string name="name_of_customer">ಗ್ರಾಹಕರ ಹೆಸರು</string>
+    <string name="phone_no_of_customer">ದೂರವಾಣಿ ಸಂಖ್ಯೆ. ಗ್ರಾಹಕರ</string>
+    <string name="have_an_account_sign_in">ಖಾತೆ ಇದೆಯೇ? ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="create_account">ಖಾತೆ ತೆರೆ</string>
+    <string name="enter_password">ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ</string>
+    <string name="sign_in">ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="make_new_customer">ಹೊಸ ಗ್ರಾಹಕರನ್ನು ಮಾಡಿ</string>
+    <string name="don_t_have_a_number_take_help">ಸಂಖ್ಯೆ ಇಲ್ಲವೇ? ಸಹಾಯ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="number">ಸಂಖ್ಯೆ</string>
+    <string name="you_owe">ನೀವು ಓವ್</string>
+    <string name="you_are_owed">ಣಿಯಾಗಿದ್ದೀರಿ</string>
+    <string name="payment">ಪಾವತಿ</string>
+    <string name="credit">ಕ್ರೆಡಿಟ್</string>
+    <string name="add">ಸೇರಿಸಿ</string>
+    <string name="e_g_50">ಉದಾ: 50</string>
+    <string name="signed_in_as">ಬಳಕೆದಾರ</string>
+    <string name="log_out">ಲಾಗ್ ಔಟ್</string>
+    <string name="add_customer">ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="show_customers">ಗ್ರಾಹಕರನ್ನು ತೋರಿಸಿ</string>
+    <string name="show_present_customers">ಪ್ರಸ್ತುತ ಗ್ರಾಹಕರನ್ನು ತೋರಿಸಿ</string>
+    <string name="your_customers_are_as_follows">ನಿಮ್ಮ ಗ್ರಾಹಕರು ಈ ಕೆಳಗಿನಂತಿದ್ದಾರೆ</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ডিজিটাল ক্রেডিট অ্যাকাউন্ট</string>
+    <string name="create_a_password">পাসওয়ার্ড তৈরি করুন</string>
+    <string name="name">নাম</string>
+    <string name="phone_no">ফোন নম্বর.</string>
+    <string name="name_of_customer">গ্রাহকের নাম</string>
+    <string name="phone_no_of_customer">গ্রাহকের ফোন নম্বর</string>
+    <string name="have_an_account_sign_in">একাউন্ট আছে? সাইন ইন করুন</string>
+    <string name="create_account">হিসাব তৈরি কর</string>
+    <string name="enter_password">পাসওয়ার্ড লিখুন</string>
+    <string name="sign_in">সাইন ইন করুন</string>
+    <string name="make_new_customer">নতুন গ্রাহক</string>
+    <string name="don_t_have_a_number_take_help">নম্বর নেই? সাহায্য নিন</string>
+    <string name="number">নম্বর</string>
+    <string name="you_owe">ঋণগ্রস্ত</string>
+    <string name="you_are_owed">পাওনা</string>
+    <string name="payment">পারিশ্রমিক</string>
+    <string name="credit">ধার</string>
+    <string name="add">যোগ</string>
+    <string name="e_g_50">যেমন: 50</string>
+    <string name="signed_in_as">হিসাবে সাইন ইন</string>
+    <string name="log_out">প্রস্থান</string>
+    <string name="add_customer">গ্রাহক যুক্ত করুন</string>
+    <string name="show_customers">গ্রাহকদের দেখান</string>
+    <string name="show_present_customers">উপস্থিত গ্রাহকদের দেখান</string>
+    <string name="your_customers_are_as_follows">আপনার গ্রাহকরা নিম্নরূপ:</string>
+</resources>

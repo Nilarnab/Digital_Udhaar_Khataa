@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">ਡਿਜੀਟਲ ਕ੍ਰੈਡਿਟ ਖਾਤਾ</string>
+        <string name="create_a_password">ਇੱਕ ਪਾਸਵਰਡ ਬਣਾਓ</string>
+        <string name="name">ਨਾਮ</string>
+        <string name="phone_no">ਫੋਨ ਨੰ.</string>
+        <string name="name_of_customer"> ਗਾਹਕ ਦਾ ਨਾਮ</string>
+        <string name="phone_no_of_customer">ਫੋਨ ਨੰ. ਗਾਹਕ ਦਾ</string>
+        <string name="have_an_account_sign_in">ਕੋਈ ਖਾਤਾ ਹੈ? ਸਾਈਨ - ਇਨ</string>
+        <string name="create_account">ਖਾਤਾ ਬਣਾਉ</string>
+        <string name="enter_password">ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ</string>
+        <string name="sign_in">ਸਾਈਨ - ਇਨ</string>
+        <string name="make_new_customer">ਨਵਾਂ ਗਾਹਕ ਬਣਾਓ</string>
+        <string name="don_t_have_a_number_take_help">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਨੰਬਰ ਨਹੀਂ ਹੈ? ਮਦਦ ਲਓ</string>
+        <string name="number">ਫੋਨ ਨੰਬਰ</string>
+        <string name="you_owe">ਤੁਸੀਂ ਓਵਰ</string>
+        <string name="you_are_owed">ਤੁਸੀਂ ਬਕਾਇਆ ਹੋ</string>
+        <string name="payment">ਭੁਗਤਾਨ</string>
+        <string name="credit">ਕ੍ਰੈਡਿਟ</string>
+        <string name="add">ਸ਼ਾਮਲ ਕਰੋ</string>
+        <string name="e_g_50">ਜਿਵੇਂ: 50</string>
+        <string name="signed_in_as">ਦੇ ਤੌਰ ਤੇ ਸਾਈਨ ਇਨ ਕੀਤਾ</string>
+        <string name="log_out">ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ</string>
+        <string name="add_customer">ਗਾਹਕ ਸ਼ਾਮਲ ਕਰੋ</string>
+        <string name="show_customers">ਗਾਹਕ ਦਿਖਾਓ</string>
+        <string name="show_present_customers">ਮੌਜੂਦਾ ਗ੍ਰਾਹਕ ਦਿਖਾਓ</string>
+        <string name="your_customers_are_as_follows">ਤੁਹਾਡੇ ਗਾਹਕ ਹੇਠ ਲਿਖੇ ਅਨੁਸਾਰ ਹਨ</string>
+        <string name="gj">ગુજરાતી</string>
+        <string name="kdbutton">ಕನ್ನಡ</string>
+
+
+</resources>

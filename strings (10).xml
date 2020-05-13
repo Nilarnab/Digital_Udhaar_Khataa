@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">డిజిటల్ క్రెడిట్ ఖాతా</string>
+    <string name="create_a_password">పాస్వర్డ్ను సృష్టించండి</string>
+    <string name="name">పేరు</string>
+    <string name="phone_no">చరవాణి సంఖ్య.</string>
+    <string name="name_of_customer">కస్టమర్ పేరు</string>
+    <string name="phone_no_of_customer">చరవాణి సంఖ్య. కస్టమర్ యొక్క</string>
+    <string name="have_an_account_sign_in">ఖాతా ఉందా? సైన్ ఇన్ చేయండి</string>
+    <string name="create_account">ఖాతాను సృష్టించండి</string>
+    <string name="enter_password">రహస్య సంకేతం తెలపండి</string>
+    <string name="sign_in">సైన్ ఇన్ చేయండి</string>
+    <string name="make_new_customer">క్రొత్త కస్టమర్ చేయండి</string>
+    <string name="don_t_have_a_number_take_help">సంఖ్య లేదు? సహాయం తీసుకోండి</string>
+    <string name="number">సంఖ్య</string>
+    <string name="you_owe">మీరు కట్టండి</string>
+    <string name="you_are_owed">అతను చెల్లిస్తాడు</string>
+    <string name="payment">చెల్లింపు</string>
+    <string name="credit">క్రెడిట్</string>
+    <string name="add">చేర్చు</string>
+    <string name="e_g_50">ఉదా: 50</string>
+    <string name="signed_in_as">లో సంతకం చేయబడింది</string>
+    <string name="log_out">లాగ్ అవుట్</string>
+    <string name="add_customer">కస్టమర్‌ను జోడించండి</string>
+    <string name="show_customers">కస్టమర్లను చూపించు</string>
+    <string name="show_present_customers">ప్రస్తుత కస్టమర్లను చూపించు</string>
+    <string name="your_customers_are_as_follows">మీ కస్టమర్‌లు ఈ క్రింది విధంగా ఉన్నారు</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ଡିଜିଟାଲ୍ କ୍ରେଡିଟ୍ ଆକାଉଣ୍ଟ୍ |</string>
+    <string name="create_a_password">ଏକ ପାସୱାର୍ଡ ସୃଷ୍ଟି କରନ୍ତୁ |</string>
+    <string name="name">ନାମ</string>
+    <string name="phone_no">ଫୋନ୍ ନଂ</string>
+    <string name="name_of_customer">ଗ୍ରାହକଙ୍କ ନାମ</string>
+    <string name="phone_no_of_customer">ଫୋନ୍ ନଂ ଗ୍ରାହକଙ୍କ</string>
+    <string name="have_an_account_sign_in">ଏକ ଖାତା ଅଛି କି? ଚୁକ୍ତି କରିବା</string>
+    <string name="create_account">ଖାତା ଖୋଲ</string>
+    <string name="enter_password">ପାସୱାର୍ଡ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="sign_in">ଚୁକ୍ତି କରିବା</string>
+    <string name="make_new_customer">ନୂତନ ଗ୍ରାହକ କର |</string>
+    <string name="don_t_have_a_number_take_help">ଏକ ସଂଖ୍ୟା ନାହିଁ? ସାହାଯ୍ୟ ନିଅ</string>
+    <string name="number">ସଂଖ୍ୟା</string>
+    <string name="you_owe"> ପାଖରେ</string>
+    <string name="you_are_owed">ସେ ଦେୟ ଦିଅନ୍ତି |</string>
+    <string name="payment">ଦେୟ</string>
+    <string name="credit">କ୍ରେଡିଟ୍</string>
+    <string name="add">ଯୋଡନ୍ତୁ |</string>
+    <string name="e_g_50">ଯଥା: 50</string>
+    <string name="signed_in_as">ଉପଯୋଗକର୍ତ୍ତା |</string>
+    <string name="log_out">ପ୍ରସ୍ଥାନ କର</string>
+    <string name="add_customer">ଗ୍ରାହକ ଯୋଡନ୍ତୁ |</string>
+    <string name="show_customers">ଗ୍ରାହକମାନଙ୍କୁ ଦେଖାନ୍ତୁ |</string>
+    <string name="show_present_customers">ଉପସ୍ଥିତ ଗ୍ରାହକମାନଙ୍କୁ ଦେଖାନ୍ତୁ |</string>
+    <string name="your_customers_are_as_follows">ଆପଣଙ୍କର ଗ୍ରାହକମାନେ ନିମ୍ନଲିଖିତ ଭାବରେ |</string>
+</resources>

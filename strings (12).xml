@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ڈیجیٹل کریڈٹ اکاؤنٹ</string>
+    <string name="create_a_password">پاس ورڈ بنائیں</string>
+    <string name="name">نام</string>
+    <string name="phone_no">فون نمبر.</string>
+    <string name="name_of_customer">گاہک کا نام</string>
+    <string name="phone_no_of_customer">فون نمبر. کسٹمر کا</string>
+    <string name="have_an_account_sign_in">کیا آپ کا اکاؤنٹ ہے؟ سائن ان</string>
+    <string name="create_account">اکاؤنٹ بنائیں</string>
+    <string name="enter_password">پاس ورڈ درج کریں</string>
+    <string name="sign_in">سائن ان</string>
+    <string name="make_new_customer">نیا کسٹمر بنائیں</string>
+    <string name="don_t_have_a_number_take_help">کیا آپ کا نمبر نہیں ہے؟ مدد لے</string>
+    <string name="number">نمبر</string>
+    <string name="you_owe">آپ کا واجب ہے</string>
+    <string name="you_are_owed">تم مقروض ہو</string>
+    <string name="payment">ادائیگی</string>
+    <string name="credit">کریڈٹ</string>
+    <string name="add">شامل کریں</string>
+    <string name="e_g_50">جیسے: 50</string>
+    <string name="signed_in_as">صارف</string>
+    <string name="log_out">لاگ آوٹ</string>
+    <string name="add_customer">کسٹمر شامل کریں</string>
+    <string name="show_customers">صارفین کو دکھائیں</string>
+    <string name="show_present_customers">موجودہ گاہک دکھائیں</string>
+    <string name="your_customers_are_as_follows">آپ کے گاہک درج ذیل ہیں</string>
+</resources>

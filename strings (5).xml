@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ഡിജിറ്റൽ ക്രെഡിറ്റ് അക്കൗണ്ട്</string>
+    <string name="create_a_password">ഒരു പാസ്വേഡ് സൃഷ്ടിക്കുക</string>
+    <string name="name">പേര്</string>
+    <string name="phone_no">ഫോൺ നമ്പർ.</string>
+    <string name="name_of_customer">ഉപഭോക്താവിന്റെ പേര്</string>
+    <string name="phone_no_of_customer">ഫോൺ നമ്പർ. ഉപഭോക്താവിന്റെ</string>
+    <string name="have_an_account_sign_in">ഒരു അക്കൗണ്ട് ഉണ്ടോ? സൈൻ ഇൻ</string>
+    <string name="create_account">അക്കൗണ്ട് സൃഷ്ടിക്കുക</string>
+    <string name="enter_password">പാസ്വേഡ് നല്കൂ</string>
+    <string name="sign_in">സൈൻ ഇൻ</string>
+    <string name="make_new_customer">പുതിയ ഉപഭോക്താവാക്കുക</string>
+    <string name="don_t_have_a_number_take_help">എനിക്ക് ഒരു നമ്പർ ഇല്ലേ? സഹായം സ്വീകരിക്കുക</string>
+    <string name="number">നമ്പർ</string>
+    <string name="you_owe">കടപ്പെട്ടിരിക്കുന്നു</string>
+    <string name="you_are_owed">അവൻ കടപ്പെട്ടിരിക്കുന്നു</string>
+    <string name="payment">പേയ്മെന്റ്</string>
+    <string name="credit">ക്രെഡിറ്റ്</string>
+    <string name="add">ചേർക്കുക</string>
+    <string name="e_g_50">ഉദാ: 50</string>
+    <string name="signed_in_as">ഇതായി സൈൻ ഇൻ ചെയ്‌തു</string>
+    <string name="log_out">ലോഗ് .ട്ട് ചെയ്യുക</string>
+    <string name="add_customer">ഉപഭോക്താവിനെ ചേർക്കുക</string>
+    <string name="show_customers">ഉപഭോക്താക്കളെ കാണിക്കുക</string>
+    <string name="show_present_customers">നിലവിലെ ഉപഭോക്താക്കളെ കാണിക്കുക</string>
+    <string name="your_customers_are_as_follows">നിങ്ങളുടെ ഉപയോക്താക്കൾ ഇനിപ്പറയുന്നവയാണ്</string>
+</resources>

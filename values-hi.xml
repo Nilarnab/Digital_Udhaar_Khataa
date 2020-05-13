@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">डिजिटल उधार खाता</string>
+    <string name="create_a_password">एक पासवर्ड बनाएं</string>
+    <string name="name">नाम</string>
+    <string name="phone_no">फोन नंबर।</string>
+    <string name="name_of_customer">ग्राहक का नाम</string>
+    <string name="phone_no_of_customer">फोन नंबर। ग्राहक का</string>
+    <string name="have_an_account_sign_in">खाता हो? साइन इन करें</string>
+    <string name="create_account">खाता बनाएं</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="make_new_customer">नया ग्राहक बनाओ</string>
+    <string name="don_t_have_a_number_take_help">नंबर नहीं है? मदद ले लो</string>
+    <string name="number">संख्या</string>
+    <string name="you_owe">आपका बकाया</string>
+    <string name="you_are_owed">आप पर बकाया</string>
+    <string name="payment">भुगतान</string>
+    <string name="credit">पैसा दिया</string>
+    <string name="add">जोरिये</string>
+    <string name="e_g_50">उदाहरण: 50</string>
+    <string name="signed_in_as">उपयोगकर्ता</string>
+    <string name="log_out">लॉग आउट</string>
+    <string name="add_customer">ग्राहक जोड़ें</string>
+    <string name="show_customers">ग्राहक दिखाएं</string>
+    <string name="show_present_customers">उपस्थित ग्राहक दिखाएं</string>
+    <string name="your_customers_are_as_follows">आपके ग्राहक इस प्रकार हैं</string>
+</resources>
